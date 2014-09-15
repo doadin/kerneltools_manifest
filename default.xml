@@ -5,6 +5,6 @@
            fetch=".."
            review="review.cyanogenmod.org" />
 
-  <project path="" name="Christopher83/samsung-kernel-msm7x30" remote="github" revision="cm-11.0/>
+  <project path="" name="Christopher83/linaro_toolchains_2014" remote="github" revision="cm-11.0/>
 
 </manifest>
