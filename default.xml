@@ -5,6 +5,6 @@
            fetch=".."
            review="review.cyanogenmod.org" />
 
-  <project path="" name="Christopher83/linaro_toolchains_2014" remote="github" revision="2014.09"/>
+  <project path="toolchain" name="Christopher83/linaro_toolchains_2014" remote="github" revision="2014.09"/>
 
 </manifest>
