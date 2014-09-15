@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch=".."
+           review="review.cyanogenmod.org" />
+
+  <project path="" name="Christopher83/samsung-kernel-msm7x30" remote="github" revision="cm-11.0/>
+
+</manifest>
